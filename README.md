@@ -16,4 +16,21 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### OUTPUTS
+<p align="center">
 <img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(1).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(2).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(3).jpg" alt="Image description" width="300" height="500">
+</p>
+<p align="center">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(4).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(5).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(6).jpg" alt="Image description" width="300" height="500">
+</p>
+<p align="center">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(7).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(8).jpg" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(9).jpg" alt="Image description" width="300" height="500">
+</p>
+<p align="center">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(10).jpg" alt="Image description" width="300" height="500">
+</p>
