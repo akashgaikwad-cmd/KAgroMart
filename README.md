@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### OUTPUTS
-<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(1).jpg" alt="Image description" width="300" height="800">
+<img src="https://github.com/akashgaikwad-cmd/KAgroMart/blob/main/outputs/1%20(1).jpg" alt="Image description" width="300" height="700">
